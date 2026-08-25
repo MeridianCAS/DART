@@ -1,0 +1,47 @@
+{
+  "scenarios": [
+    {
+      "name": "dart_a20r7_camber12",
+      "description": "v2 approach roll P0; runup camber γ=12° (derived from camber8) | landing beta=-12 flat; runup bank only.",
+      "mode": "valley",
+      "created": "2026-07-02 16:31:50 +0800"
+    },
+    {
+      "name": "dart_a20r7_camber4",
+      "description": "v2 approach roll P0; runup camber γ=4° (derived from camber8) | landing beta=-12 flat; runup bank only.",
+      "mode": "valley",
+      "created": "2026-07-02 16:31:50 +0800"
+    },
+    {
+      "name": "dart_a20r7_camber8",
+      "description": "v2 approach roll P0; runup camber γ=8° @ a20r7 anchor (canonical γ cell) | landing beta=-12 flat; runup bank only.",
+      "mode": "valley",
+      "created": "2026-07-02 16:31:50 +0800"
+    },
+    {
+      "name": "dart_a20r7_valley12",
+      "description": "v1 E8 + v2 ANCHOR; alpha20 rise7 valley -12 | landing surface unified to valley beta=-12 across the suite (except E4 variants).",
+      "mode": "valley",
+      "created": "2026-07-02 16:31:50 +0800"
+    },
+    {
+      "name": "dart_a20r7_valley24",
+      "description": "v2 E4 landing -24 @ a20r7 (Cond.2 class) | landing surface unified to valley beta=-12 across the suite (except E4 variants).",
+      "mode": "valley",
+      "created": "2026-07-02 16:31:50 +0800"
+    },
+    {
+      "name": "dart_a24r7_valley12",
+      "description": "v2 alpha sweep; a24 rise7 approach | landing surface unified to valley beta=-12 across the suite (except E4 variants).",
+      "mode": "valley",
+      "created": "2026-07-02 16:31:50 +0800"
+    },
+    {
+      "name": "dart_a28r7_valley12",
+      "description": "v2 alpha sweep; a28 rise7 approach (smoke first) | landing surface unified to valley beta=-12 across the suite (except E4 variants).",
+      "mode": "valley",
+      "created": "2026-07-02 16:31:50 +0800"
+    }
+  ],
+  "updated": "2026-08-24 12:33:36 +0800"
+}

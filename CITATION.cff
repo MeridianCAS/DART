@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the DART paper.
+title: DART Experiment Reproduction Package
+type: software
+license: Apache-2.0
+repository-code: https://github.com/MeridianCAS/DART
+authors:
+  - family-names: Hu
+    given-names: Yu
+    email: huyu@ict.ac.cn
+    affiliation: "Institute of Computing Technology, CAS; University of Chinese Academy of Sciences"
+  - family-names: Zhao
+    given-names: Fangzhou
+    affiliation: Institute of Computing Technology, CAS
+  - family-names: Sang
+    given-names: Mingyuan
+    affiliation: "Institute of Computing Technology, CAS; University of Chinese Academy of Sciences"
+  - family-names: Min
+    given-names: Chen
+    affiliation: Institute of Computing Technology, CAS
+  - family-names: Chen
+    given-names: Liang
+    affiliation: Institute of Computing Technology, CAS
+  - family-names: Li
+    given-names: Wei
+    affiliation: "Institute of Computing Technology, CAS; University of Chinese Academy of Sciences"
+  - family-names: Kuang
+    given-names: Wenyu
+    affiliation: Dong Feng Off-Road Vehicle Co., Ltd
+  - family-names: Chen
+    given-names: Shican
+    affiliation: Dong Feng Off-Road Vehicle Co., Ltd
+  - family-names: Li
+    given-names: Jinwei
+    affiliation: Dong Feng Off-Road Vehicle Co., Ltd
+  - family-names: Chen
+    given-names: Baolei
+    affiliation: Dong Feng Off-Road Vehicle Co., Ltd
+preferred-citation:
+  type: article
+  title: "DART: Dual-Axis Airborne Reachability-Gated Torque-Reaction for Off-Road Vehicle Jumps"
+  year: 2026
+  authors:
+    - family-names: Hu
+      given-names: Yu
+    - family-names: Zhao
+      given-names: Fangzhou
+    - family-names: Sang
+      given-names: Mingyuan
+    - family-names: Min
+      given-names: Chen
+    - family-names: Chen
+      given-names: Liang
+    - family-names: Li
+      given-names: Wei
+    - family-names: Kuang
+      given-names: Wenyu
+    - family-names: Chen
+      given-names: Shican
+    - family-names: Li
+      given-names: Jinwei
+    - family-names: Chen
+      given-names: Baolei
+  url: https://arxiv.org/abs/2607.29011
+  identifiers:
+    - type: other
+      value: arXiv:2607.29011
+      description: arXiv identifier
+  journal: arXiv
+  month: 7
+  notes: cs.RO

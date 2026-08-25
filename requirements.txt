@@ -1,0 +1,5 @@
+# Experiment re-runs require Windows and a BeamNG.tech 0.38.3 license.
+beamngpy>=1.29
+# Only needed by scripts/reachcert_numeric_xval.py (no-BeamNG numeric check).
+numpy>=1.24
+scipy>=1.11

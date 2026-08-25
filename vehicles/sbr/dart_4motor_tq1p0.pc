@@ -1,0 +1,42 @@
+{
+  "format": 2,
+  "vars": {
+    "$ffbstrength": 0.78,
+    "$tirepressure_F": 32,
+    "$tirepressure_R": 35
+  },
+  "parts": {
+    "sbr_engine": "dart_4motor_tq1p0",
+    "sbr_differential_F": "none",
+    "sbr_differential_F_electric": "none",
+    "sbr_differential_R_electric": "none",
+    "sbr_DSE": "sbr_DSE",
+    "sbr_DSE_ABS": "sbr_DSE_ABS",
+    "sbr_DSE_ESC": "none",
+    "sbr_DSE_TC": "none",
+    "sbr_DSE_drivemodes": "none",
+    "sbr_fueltank": "sbr_battery_40",
+    "sbr_radiator": "none",
+    "sbr_body": "sbr_body",
+    "sbr_suspension_F": "sbr_suspension_F",
+    "sbr_suspension_R": "sbr_suspension_R",
+    "sbr_coilover_F": "sbr_coilover_F_S2_E",
+    "sbr_coilover_R": "sbr_coilover_R_S2_E",
+    "sbr_swaybar_F": "sbr_swaybar_F",
+    "sbr_swaybar_R": "sbr_swaybar_R_S2",
+    "sbr_wheeldata_F": "sbr_wheeldata_F",
+    "sbr_wheeldata_R": "sbr_wheeldata_R",
+    "wheel_F_5": "hirochi_wheel_06a_19x8_F",
+    "wheel_R_5": "hirochi_wheel_06a_19x11_R",
+    "tire_F_18x8": "tire_F_225_40_18_sport",
+    "tire_R_19x11": "tire_R_295_25_19_sport",
+    "sbr_brake_F": "sbr_brake_F_S",
+    "sbr_brake_R": "sbr_brake_R_S",
+    "brakepad_F": "brakepad_F_sport",
+    "brakepad_R": "brakepad_R_sport",
+    "sbr_steering": "sbr_steering",
+    "sbr_steer": "sbr_steer",
+    "sbr_gauges": "sbr_gauges_electro",
+    "sbr_shifter": "sbr_shifter_EV"
+  }
+}
